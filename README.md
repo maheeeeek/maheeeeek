@@ -8,7 +8,7 @@
 - 🌱 Currently learning **MERN Stack**
 - 💼 I love building full-stack web apps that solve real problems
 - 🔗 All of my projects live [here on GitHub](https://github.com/maheeeeek)
-- 📫 Reach me at: **yourmail@example.com**
+- 📫 Reach me at: **mahek6434@gmail.com**
 - ✨ Fun fact: I never leave a CSS bug unbothered 😎
 
 ---
@@ -59,7 +59,7 @@ Add your best projects to your profile using GitHub’s “Customize your pinned
 ### 🌱 Contribution Graph:
 
 Keep pushing commits daily — your green garden will bloom! 🌿  
-> This part updates automatically every day!
+
 
 ---
 
