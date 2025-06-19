@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
 - 💡 I love building full-stack apps that solve real-world problems
 - 👀 I’m **looking for opportunities**: internships / freelance / junior developer roles
-- 📫 Reach me at **mahek4bd@gmail.com**
+- 📫 Reach me at **mahek6434@gmail.com**
 - ⚡ Fun fact: I never leave a CSS bug unchased 😎
 
 ---
