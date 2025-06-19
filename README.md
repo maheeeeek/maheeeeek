@@ -16,7 +16,7 @@
 ### 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/maheeeeek)
 
 ---
 
@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=midnight-purple" alt="mahek's stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheeeeek&theme=midnight-purple" alt="mahek's streak" />
+  <img src="https://github.com/maheeeeek&theme=midnight-purple" alt="mahek's streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheeeeek&layout=compact&theme=midnight-purple" alt="mahek's top languages" />
 </p>
