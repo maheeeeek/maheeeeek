@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=midnight-purple" alt="mahek's stats" />
   <br/>
-  <img src="https://github.com/maheeeeek&theme=midnight-purple" alt="mahek's streak" />
+  <img src="https://github.com/maheeeeek" alt="mahek's streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheeeeek&layout=compact&theme=midnight-purple" alt="mahek's top languages" />
 </p>
