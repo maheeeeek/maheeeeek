@@ -44,7 +44,7 @@
 
 ### 🚀 Pinned Projects
 - 📸 **[PhotographerPortfolio](https://github.com/maheeeeek/PhotographerPortfolio)** — A responsive portfolio website for photographers built using HTML, CSS, and JavaScript  
-- 🎨 **[EPIXELAB](https://github.com/maheeeeek/EPILLAAR)** — A stylish landing page built with pure CSS  
+- 🎨 **[EPIXELAB](https://github.com/maheeeeek/EPIXELAB)** — A stylish landing page built with pure CSS  
 
 
 
