@@ -1,34 +1,62 @@
 <h1 align="center">Hi 👋, I'm Jannatun Nesa Mahek</h1>
 <h3 align="center">A passionate Web Developer & MERN stack learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheeeeek&label=Profile%20views&color=0e75b6&style=flat" alt="maheeeeek" />
-</p>
-
 ---
 
+### 👩‍💻 About Me: 
 🌱 I’m currently learning **MERN stack**  
-💻 All of my projects are available at [My GitHub](https://github.com/maheeeeek/maheeeeek)  
-📫 How to reach me: **mahek6434@gmail.com**  
+💻 All of my projects are available at [My GitHub](https://github.com/maheeeeek)  
+📫 How to reach me: **yourmail@example.com**  
 ⚡ Fun fact: I love building creative web projects!
+- ✨ Always eager to explore and contribute to open-source projects
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🌐 Connect with me:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/jannatun-nesa-mahek-1baa462a6/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://yourportfolio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack:
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=radical" alt="maheeeeek stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheeeeek&theme=radical" alt="maheeeeek streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark" />
 </p>
+
+---
+
+### 🧠 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 📌 Pinned Projects:
+You can pin projects by going to your profile → “Customize your pins”
+
+---
+
+### 📅 Contribution Graph:
+Just keep committing! This part updates automatically as you contribute.
+
+---
+
+> ⚡ Tip: Customize your badges from [https://shields.io/](https://shields.io/)  
+> 🧩 GitHub Stats: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
