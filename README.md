@@ -8,8 +8,8 @@
 ---
 
 🌱 I’m currently learning **MERN stack**  
-💻 All of my projects are available at [My GitHub](https://github.com/maheeeeek)  
-📫 How to reach me: **yourmail@example.com**  
+💻 All of my projects are available at [My GitHub](https://github.com/maheeeeek/maheeeeek)  
+📫 How to reach me: **mahek6434@gmail.com**  
 ⚡ Fun fact: I love building creative web projects!
 
 ---
