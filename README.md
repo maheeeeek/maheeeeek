@@ -18,9 +18,12 @@
 
 ### 🔗 Connect With Me
 <p align="left">
+
   <a href="https://www.linkedin.com/in/jannatun-nesa-mahek-1baa462a6/" target="_blank">
-    <img src="https://www.linkedin.com/in/jannatun-nesa-mahek-1baa462a6/" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+ 
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=google-chrome" alt="Portfolio" />
   </a>
