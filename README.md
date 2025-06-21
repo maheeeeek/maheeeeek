@@ -33,9 +33,6 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
-![image](https://github.com/user-attachments/assets/9204de90-9a1e-4cee-a47b-dd831965a816)
-
-
 
 ---
 
