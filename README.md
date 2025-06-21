@@ -19,8 +19,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jannatun-nesa-mahek-1baa462a6/![image](https://github.com/user-attachments/assets/2db7cf5a-3923-4e57-8336-957572d9a169)
-" target="_blank">
+  <a href="https://www.linkedin.com/in/jannatun-nesa-mahek-1baa462a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://your-portfolio-link.com" target="_blank">
@@ -28,7 +27,7 @@
   </a>&nbsp;
   <a href="https://www.instagram.com/codewithmahek/![image](https://github.com/user-attachments/assets/34e35f8e-819f-4e3f-b5f8-14197eeb81f1)
 " target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://www.instagram.com/codewithmahek/" alt="Instagram" />
   </a>&nbsp;
   <a href="https://www.threads.com/@codewithmahek?xmt=AQF0PpLkYoOawkv-z2yWwVARz_vOZBCKmyle7owXrngKLn4" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
