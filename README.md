@@ -55,8 +55,9 @@
 ---
 
 ### 🚀 Pinned Projects
-- 📸 **[PhotographerPortfolio](https://github.com/maheeeeek/PhotographerPortfolio)** — A responsive portfolio website for photographers built using HTML, CSS, and JavaScript  
-- 🎨 **[EPIXELAB](https://github.com/maheeeeek/EPIXELAB)** — A stylish landing page built with pure CSS  
+-  **[PhotographerPortfolio](https://github.com/maheeeeek/PhotographerPortfolio)** — A responsive portfolio website for photographers built using HTML, CSS, and JavaScript  
+-  **[EPIXELAB](https://github.com/maheeeeek/EPIXELAB)** — A stylish landing page built with pure CSS
+-  **[Beauty Page](https://github.com/maheeeeek/First-bootstrap-project)** - A Beauty Brand website
 
 ---
 
