@@ -53,12 +53,12 @@
 
 
 ### 📈 GitHub Stats
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheeeeek&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
