@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jannatun Nesa Mahek</h1>
-<h3 align="center">💻 Web Developer | MERN Stack Learner | Open to Internships / Freelance Work</h3>
+<h3 align="center">💻 React Developer | React Learner | Open to Internships / Freelance Work</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maheeeeek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
