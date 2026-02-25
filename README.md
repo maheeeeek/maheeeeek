@@ -44,16 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheeeeek&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🚀 Pinned Projects
 -  **[PhotographerPortfolio](https://github.com/maheeeeek/PhotographerPortfolio)** — A responsive portfolio website for photographers built using HTML, CSS, and JavaScript  
 -  **[EPIXELAB](https://github.com/maheeeeek/EPIXELAB)** — A stylish landing page built with pure CSS
