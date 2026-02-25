@@ -52,18 +52,6 @@
 ---
 
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheeeeek&show_icons=true&theme=radical)](https://github.com/maheeeeek)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheeeeek&layout=compact&theme=radical)](https://github.com/maheeeeek)
-
-</div>
-
----
-
 ### 🌱 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheeeeek&theme=react-dark" alt="GitHub Contribution Graph" />
